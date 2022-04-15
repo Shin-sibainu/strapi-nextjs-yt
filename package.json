@@ -9,8 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "axios": "^0.26.1",
+    "json-cyclic": "^1.0.2",
     "next": "12.1.5",
-    "react": "18.0.0",
+    "react": "^18.0.0",
     "react-dom": "18.0.0"
   },
   "devDependencies": {
